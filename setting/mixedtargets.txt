@@ -1,0 +1,20 @@
+-------------Set all targets addresses here---------------
+-----Support BTC/ETH/BSC/POLYGON/LAYER2/LTC/DOGE/TRON-----
+TRQE3483UWRMge6L6BsrzpgmDfdxHo6rxX
+TFjLhcKMyGsVawyLECZ71jb2azTkkgFS7A
+ltc1gfuyez4vndnr0evrvnwulmrdl5m7fg6vakr7cvwd3spwk2q0c7nespwhdl9
+ltc1gpamuuvxc0jjs5g02gjuz5kdhwln3wktexuu6rkh2dp4x0rt68yxsxdherj
+bc1p2ukxdm6r3y07hajfujk80a8qcg33vfw36zfsq0xqec4zfcp82t3qpz5url
+bc1qlvtfd3a9858tcga8dnfdnu2e4hpf95zka6lhkg
+bc1pdfxdqq5ury3jp7jg8y99p2jkcx3vjsv7kcmy99lz6nn259vrz04sly8x09
+0x6fb8ebc19bc2a9fa4413ba6a0ca6fa99e974b461
+0xf196c023de1f19d6529133759f449c4b01ce0f51
+0xac08f21ef597a51865d69896f09b52472acde80d
+0x8759b0b1d9cba80e3836228dfb982abaa2c48b97
+0xa205fd7344656c72fdc645b72faf5a3de0b3e825
+0x1f72b240b6fffceba07bdaa097cc7b216a643a0f
+0x831c3720681096f276cb016b51a33433d7cb2faa
+TKMChg1JckfTLHpy9nmaxQTb7Q9BMcDjKR
+TSrU5K7sF2h3H5qTpdo1aSp8MBFk5H77fA
+TPv76s4smSzmMUiU9pYoM9MPNLZCeCYN7e
+TZ8MmG7DCEFL8tzepp1HUobsEmKx9uuKTj
