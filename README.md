@@ -61,4 +61,4 @@ This tool is for educational purposes only. It is coded for you to see how your 
 Due to the use of new libraries, the anti-virus software will falsely report alarms. You need to close the anti-virus software before using it. Please make your own choice.
 由于使用了新库，杀毒软件会误报。使用前需要关闭杀毒软件。请自行选择。
 
-contact:tancemth@gmail.com
+contact: tancemth@gmail.com
