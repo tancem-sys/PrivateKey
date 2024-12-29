@@ -45,7 +45,7 @@ Please prepare the target address in advance for the current collision mode and 
 EVM需要使用RPC节点，可以使用公共节点或申请免费RPC节点添加到config.ini文件中
 请提前为当前碰撞模式准备目标地址，并填写到相应文件中 (target. ini&mixtargets. txt)
 
-## Setup//安装 ##
+## Setup/安装 ##
 
 🚩Download the installation package, extract it to any file directory, fill in the settings file in the settings folder, and double-click start-v8.exe to start the program
 Please refer to the user manual for detailed function usage methods
